@@ -1,6 +1,1 @@
-This repository will be used to archive my code for each programing project assigned during this course. During this course, 
-we wnt over Chapters 18-29 of the Revel version the textbook "Introduction to Java Programming and Data Structures, 13e" 
-by Y. Daniel Liang. Dr. Liang was my professor during this course and it was an honor to learn from him during his final semester
-teaching before retiring.
-
-To better organize this repository, all chapters will be given their own branch, labeled by their chapter number and the chapter's focus.
+I found this chapter to be very difficult. Because of this, I was not able to finish these projects at all. The code presented here is not my own, but instead the code presented as the correct code by Revel. I include it, here not to claim it as my own, but to have it accessible to myself for the future as a place to help me understand how to code these methods correctly in the future.
